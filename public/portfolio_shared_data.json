@@ -1,0 +1,123 @@
+{
+    "basic_info": {
+      "name": "Kanwar Padda",
+      "titles": [ "Full-stack Developer", "Web Developer", "DevOps Developer", "Serverless Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/KanwarPadda",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kanwartejbirsinghpadda/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email",
+          "url": "mailto:kanwarpadda1@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myProfile.PNG"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "90"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "70"
+        },
+        {
+          "name": "Rails",
+          "class": "devicon-rails-plain",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "85"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Swift",
+          "class": "devicon-swift-plain",
+          "level": "60"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
