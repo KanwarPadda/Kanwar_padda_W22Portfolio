@@ -15,7 +15,7 @@
     },
     "projects": [
       {
-        "title": "Wheather App",
+        "title": "Weather App",
         "startDate": "2021",
         "description": "A Android app made with Java that gets your current location and, show weather for now and make forecast weather for whole week.",
         "images": [
