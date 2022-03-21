@@ -31,7 +31,8 @@ class Projects extends Component {
                   <img
                     src={projects.images[0]}
                     alt="projectImages"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative' }}
+                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative',height: 200,
+                     width: 450 }}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />

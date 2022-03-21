@@ -2,7 +2,7 @@
     "basic_info": {
       "description_header": "Hi!",
       "description": "👋 I'm Kanwar Padda.A dynamic, motivated, bilingual Professional with the educational background and proven work ethic to deliver exceptional administrative and customer support, known for creating UI/UX & backend for applications, with the skillset to complete customer requirements, collect supplementary information/documentation and more to deliver the desired application. Out-of-the-box thinker who is comfortable working in teams or independently to ensure results consistently exceed goals. Exceptional academic qualifications, including Leadership qualities and multi-tasking, coordinating and guiding the teammates, achieving a certain goal in the given amount of time.",
-      "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
+      "philosophy": "I'm a youthful, driven guy with proven talents and expertise who is dependable and confident.I enjoy problem solving and am fast to learn, with excellent communication skills and the ability to work effectively in a professional setting either alone or as part of a team.I'm committed to working in the IT field, which is a talent and subject that I adore. ",
       "preference": "I’m looking for a Full Time Position in IT, preferably in the GTA(Grater Toronto Area), although I am open to work anywhere for the right opportunity.",
       "section_name": {
         "about": "About me",
@@ -16,35 +16,16 @@
     "projects": [
       {
         "title": "Wheather App",
-        "startDate": "2019",
-        "description": "A blended e-learning solution that attempts to solve the difficulties in current oracy (speaking and listening skills) strategies in primary schools across Wales. The project was developed in conjunction with a member of the education industry. What is delivered is a Laravel/Symfony full-stack application to provide the tools necessary for teachers to record and provide feedback on a range of activities. Activities are then carried out by pupils in the classroom with an iOS application for the iPad.",
+        "startDate": "2021",
+        "description": "A Android app made with Java that gets your current location and, show weather for now and make forecast weather for whole week.",
         "images": [
-          "images/portfolio/oracybox/p1.jpg",
-          "images/portfolio/oracybox/p2.png",
-          "images/portfolio/oracybox/p3.jpeg",
-          "images/portfolio/oracybox/p4.jpg"
+          "images/portfolio/weather/Weather.jpg"
         ],
-        "url": "https://KanwarPadda.github.io/OracyBox/",
+        "url": "https://github.com/KanwarPadda/mobile_weather_app",
         "technologies": [
           {
             "class": "devicon-android-plain",
             "name": "Android"
-          }
-        ]
-      },
-      {
-        "title": "Recipe Shear Website",
-        "startDate": "2020",
-        "description": "Using PolitiFact data, this a simple react application which aims to test your ability to identify which of two news articles is fake and real. Loading may take some time due to using a free-tier dyno in Heroku.",
-        "images": [
-          "images/portfolio/fakenews-quiz/p1.png",
-          "images/portfolio/fakenews-quiz/p2.jpg"
-        ],
-        "url": "https://fakenews-quiz.KanwarPadda.co.uk/",
-        "technologies": [
-          {
-            "class": "devicon-spring-plain-wordmark",
-            "name": "Spring"
           },
           {
             "class": "devicon-java-plain",
@@ -53,14 +34,38 @@
         ]
       },
       {
-        "title": "IOS Lottery App",
-        "startDate": "2020",
-        "description": "I wanted to see if I could develop Tetris (using the official rule book) using only HTML, CSS, and JavaScript. Loading may take some time due to using a free-tier dyno in Heroku.",
+        "title": "Recipe Shear Website",
+        "startDate": "2021",
+        "description": "a web site made with Maven, spring that let you share recipes, search, let you make meal plan, make notes for future events",
         "images": [
-          "images/portfolio/tetris-js/p1.jpg",
-          "images/portfolio/tetris-js/p2.jpg"
+          "images/portfolio/recipe/index.png"
+          
         ],
-        "url": "https://tetris.KanwarPadda.co.uk/",
+        "url": "https://github.com/KanwarPadda/Spring_recipe",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-apache-plain",
+            "name": "Maven"
+          }
+        ]
+      },
+      {
+        "title": "IOS Lottery App",
+        "startDate": "2022",
+        "description": "A IOS based app made with Swift that will predict winning numbers(Random Numbers) with hit of just 1 button",
+        "images": [
+          "images/portfolio/loto/index.jpg"
+          
+        ],
+        "url": "https://github.com/KanwarPadda/IOS_lottery_app",
         "technologies": [
           {
             "class": "devicon-swift-plain",
@@ -69,16 +74,13 @@
         ]
       },
       {
-        "title": "Personalised License Plate Management System",
-        "startDate": "2021",
-        "description": "A full-stack application created for the Web Services and Web Development joint assignment. Uses Spring for the back-end, react for the front-end, and MySQL for the database including Redis for NoSQL caching. Entirely wrapped in docker containers.",
+        "title": "The Barter classified",
+        "startDate": "2022",
+        "description": "Batter based system that lets you exchange Products and look up for services.",
         "images": [
-          "images/portfolio/lpms/p1.jpg",
-          "images/portfolio/lpms/p2.png",
-          "images/portfolio/lpms/p3.jpeg",
-          "images/portfolio/lpms/p4.jpg"
+          "images/portfolio/tbc/Capture.PNG"
         ],
-        "url": "https://github.com/KanwarPadda/personalised-plates",
+        "url": "https://github.com/KanwarPadda/Barterclassified",
         "technologies": [
           {
             "class": "devicon-spring-plain-wordmark",
@@ -104,33 +106,22 @@
             "class": "devicon-bootstrap-plain",
             "name": "React-Bootstrap"
           },
+          
           {
-            "class": "devicon-nginx-original",
-            "name": "Nginx"
-          },
-          {
-            "class": "devicon-docker-plain",
-            "name": "Docker"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          },
-          {
-            "class": "devicon-redis-plain",
-            "name": "Redis"
+            "class": "devicon-firebase-plain",
+            "name": "Fire Base"
           }
         ]
       },
       {
-        "title": "What Does Ja Rule Think?: A Magic 8-Ball Tool",
+        "title": "CRU (Coming Soon)",
         "startDate": "2021",
         "description": "A simple magic 8-ball style game where you ask Ja Rule his thoughts, and he shall answer. Created with React.JS and deployed using AWS Amplify.",
         "images": [
-          "images/portfolio/jarule/1.png",
-          "images/portfolio/jarule/2.png"
+          "images/portfolio/cru/Capture.PNG"
+        
         ],
-        "url": "https://whatdoesjarulethink.com",
+        "url": "https://github.com/KanwarPadda/CRU-Orignal",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -143,46 +134,6 @@
           {
             "class": "devicon-nodejs-plain",
             "name": "Node.JS"
-          },
-          {
-            "class": "devicon-materialui-plain",
-            "name": "MaterialUI"
-          },
-          {
-            "class": "devicon-amazonwebservices-original",
-            "name": "AWS"
-          }
-        ]
-      },
-      {
-        "title": "Harmoforce; the Microservice and Front-End",
-        "startDate": "2021",
-        "description": "Harmoforce is a community driven coordinator of validation staking on the Harmony ONE network. This is a microservice which keeps track and records delegators for a given target validator for easier insight into the effective staking pool of Harmoforce. Website created with React.js and deployed via AWS Amplify. Microservice exists as a Python AWS Lambda along with DynamoDB for storage.",
-        "images": [
-          "images/portfolio/harmoforce/1.jpg",
-          "images/portfolio/harmoforce/2.jpg"
-        ],
-        "url": "https://harmoforce.one/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React.JS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.JS"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-amazonwebservices-original",
-            "name": "AWS"
           }
         ]
       }
@@ -293,3 +244,4 @@
       }
     ]
 }
+
