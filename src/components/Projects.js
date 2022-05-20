@@ -31,6 +31,7 @@ class Projects extends Component {
                   <img
                     src={projects.images[0]}
                     alt="projectImages"
+                    class="img-fluid mx-auto"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative',height: 200,
                      width: 450 }}
                   />
